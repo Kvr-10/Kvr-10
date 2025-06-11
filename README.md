@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋, I'm Chaman Sinha</h2>
-<h3 align="left">A passionate Java developer from India</h3>
+<h3 align="left">A passionate Full Stack Developer & AI Enthusiast from India</h3>
 
-- 🔭 I’m currently working on Java-based web applications  
-- 🌱 I’m currently learning Spring Boot  
-- 👨‍💻 All of my projects are available at my [website](https://kvr-10.github.io)  
-- 📄 Know about my experiences: [Resume](https://kvr-10.github.io/Chaman_Sinha_Resume.pdf)
+- 🔭 I’m currently working on full stack web applications  
+- 🌱 I’m learning **Next.js**, improving my **Spring Boot** skills, and exploring **AI/ML integration** in applications  
+- 💡 I have a strong foundation in **Java**, and I’m expanding into **modern frontend technologies** and **AI tools**  
+- 🤖 Exploring projects that combine **AI** with full stack development  
+- 👨‍💻 All of my projects are available at my [website](https://kvr-10.github.io) 
+- 📄 Know about my experiences: [Resume](https://kvr-10.github.io/resume/Chaman_Sinha_Resume.pdf)
 
 ---
 
